@@ -1,7 +1,12 @@
 # Learn docker
 
+This repo contains docker study notes and related files.
 
-# Docker lecture 1 - Manual process to create container and Dockerfile
+----
+
+<details>
+  <summary>Docker lecture 1 - Manual process to create container and Dockerfile</summary>
+
 - 29
     ```
         systemctl start docker
@@ -58,3 +63,26 @@
         docker ps -q  ==>q (quiet): Only display the numeric IDs of the containers.
     ```
 - Components
+
+</details>
+
+---
+
+<details>
+  <summary>Docker lecture 2</summary>
+
+</details>
+
+----
+
+<details>
+  <summary>Docker lecture 3</summary>
+
+</details>
+
+----
+
+<details>
+  <summary>Docker lecture 4</summary>
+
+</details>
